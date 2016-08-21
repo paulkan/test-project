@@ -1,7 +1,7 @@
 # test-project
 ---
-## Simple project to collect some useful parts of code in one place
-***
+## code_parts is simple folder to collect some useful parts of code in one place
+
 Full list of sub-projects
 | Folder      | Language | Description |
 | ----------- |:--------:|:-----------:|
